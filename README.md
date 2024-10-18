@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Alexandre Ferreira
-- 👀 I'm interested in sharing and learning more every day with the great mass of good developers we have in the world
-- 🌱 I'm currently venturing out to learn a Cloud Azure Devops and perfecting the techniques with python.
+🌟 Especialista em Desenvolvimento de Aplicativos Móveis 🌟
+
+Atualmente, sou Engenheiro de Software na CI&T, com foco em desenvolvimento de aplicativos móveis. Possuo ampla experiência em Flutter, React Native, Android e Swift.
+
+Ao longo da minha trajetória, desenvolvi diversas aplicações que me permitem criar interfaces modernas e responsivas, oferecendo experiências de usuário excepcionais. Estou constantemente em busca de inovações e melhores práticas para otimizar o desempenho e a qualidade das soluções que entrego.
 
 <!---
 AFSolution-Ferreira/AFSolution-Ferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
